@@ -4,8 +4,8 @@ import 'aos/dist/aos.css';
 import AOSProvider from '@/components/AOSProvider';
 
 export const metadata = {
-  title: 'AZNews',
-  description: 'AZNews migrated into a simple Next.js app'
+  title: 'news',
+  description: 'news migrated into a simple Next.js app'
 };
 
 const cssFiles = [
